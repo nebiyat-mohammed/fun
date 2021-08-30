@@ -6,7 +6,7 @@
 
 # Periodically download lists of known ad and malware servers, and prevents traffic from being sent to them.
 # This is a complete rewrite of a script originally written by teffalump (https://gist.github.com/teffalump/7227752).
-
+Hello naba
 
 HOST_LISTS="
 	http://www.malwaredomainlist.com/hostslist/hosts.txt
